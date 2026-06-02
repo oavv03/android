@@ -1,0 +1,6 @@
+{
+  "name": "Seguimiento de Gastos",
+  "description": "Aplicación para el seguimiento de gastos personales con gráficos mensuales detallados y análisis por categorías.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
